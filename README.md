@@ -5,3 +5,21 @@ Funcionamiento: Este proyecto en Java tiene como finalidad imprimir números con
 1,234
 
 El programa imprimiría el número de la siguiente manera.
+
+3 // cantidad de números a imprimir.
+ -
+   |
+ -
+|
+ -
+ -
+   |
+ -
+   |
+ -
+
+|  |
+ -
+   |
+
+Nota: Para el correcto funcionamiento del programa, es necesario incluir la librería de apache-commons-lang.jar a las librerías referenciadas, ya que usamos la clase StringUtils.
